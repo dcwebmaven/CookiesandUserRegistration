@@ -1,5 +1,5 @@
 # CookiesandUserRegistration
-This project requires a user to register his/her email address before being able to download a file.  It also uses cookies to check if a particular user has registered and ensures that a user can only download the file once every 7 days.
+This PHP project requires a user to register his/her email address before being able to download a file.  It also uses cookies to check if a particular user has registered and ensures that a user can only download the file once every 7 days.
 
 Download Interface with User Reg and Cookies
 
